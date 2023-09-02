@@ -1,4 +1,4 @@
-# This is for regrading. The only change I have done here is adding code to print the results in the text file. In the first time, I did not realise that question asks #  to do that. I thought, we need to provide screenshots of the results. I got help for this part from tutor session to understand what question asks and how to do this.
+# This is for regrading. The only change I have done here is adding code to print the results in the text file. In the first time, I did not realise that question asks  to do that. I thought, we need to provide screenshots of the results. I got help for this part from tutor session to understand what question asks and how to do this.
 
 # I have given the absolute path and did not change it to relative path as that is how I gave the path in my first submission.
 
